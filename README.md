@@ -16,19 +16,19 @@ To apply Power BI for visualizing and analyzing key factors that influence a fil
 
 ## 📊 Key Insights
 
-### 🔹 Profitability
+### Profitability
 - **Comedy** films are the most profitable genre with 153 films.
 - **Independent studios** dominate with 118 profitable films—more than any major studio.
 
-### 🔹 Genre & Studio Distribution
+### Genre & Studio Distribution
 - Comedy accounts for **55.41%** of all films.
 - Major contributors: Warner Bros. (16.22%), Disney (9.46%), Universal (9.46%).
 
-### 🔹 Score Correlations
+### Score Correlations
 - A **positive correlation** exists between **Rotten Tomatoes %** and **Audience Score %**.
 - High **Rotten Tomatoes ratings** don’t always ensure high **worldwide gross**, though a few outliers exist.
 
-### 🔹 Time Trends
+### Time Trends
 - Most films in the dataset are from **2008 and 2010**, each contributing over 25%.
 
 
